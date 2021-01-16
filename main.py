@@ -1,6 +1,7 @@
-from modul.daftar_nilai import ubah, hapus, cari
-from view.input_nilai import tambah
-from view.view_nilai import tampil, cari
+from model.daftar_nilai import tambahkan, ubah, hapus, cari
+from view.input_nilai import tambahdata
+from view.view_nilai import tampil, caridata
+
 
 while True:
     print('\nPilih salah satu menu di bawah ini:')
@@ -8,7 +9,8 @@ while True:
     print('\n1.Tambah \n2.Tampil \n3.Hapus \n4.Ubah \n5.Cari \n6.Keluar dari program')
     x = input('\nMasukkan Pilihan Menu anda\t: ')
     if x.lower() == "1":
-        tambah()
+        tambahkan()
+        tambahdata()
     elif x.lower() == "2":
         tampil()
     elif x.lower() == "3":
@@ -17,9 +19,10 @@ while True:
         ubah()
     elif x.lower() == "5":
         cari()
+        caridata()
     elif x.lower() == "6":
-        print('\nAnda sudah keluar dari program')
+        print('Anda sudah keluar dari program')
         break
-
+        
     else:
-        print('\nPilih menu yang tersedia di atas')
+        print('Pilih menu yang tersedia di atas')
