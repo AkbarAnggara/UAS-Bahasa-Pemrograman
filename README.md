@@ -113,7 +113,7 @@ Berikut adalah tampilan dari program atau syntax- syntax yang sudah kita buat ta
 Jika kita sudah memasukkan atau menginputkan data mahasiswa<br>
 ![tampilkan_data.png](Pic/tampilkan_data.png)<br>
 Jika kita belum menginputkan data mahasiswa<br>
-![tidak_ada_data.png](Pic/tdak_ada_data.png)<br>
+![tidak_ada_data.png](Pic/tidak_ada_data.png)<br>
 
 3. Menghapus data mahasiswa<br>
 Jika kita sudah memasukkan atau menginputkan data mahasiswa<br>
