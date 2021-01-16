@@ -47,7 +47,7 @@ Penjelasan:<br>
   - Def cari<br>
 ![cari.png](Pic/cari.png)<br>
 Penjelasan:<br>
-    - Fungsinya sama dengan tambahkan<br>
+    - Fungsinya sama dengan Def tambahkan<br>
  
 2. Input_Nilai<br>
   - From dan import<br>
