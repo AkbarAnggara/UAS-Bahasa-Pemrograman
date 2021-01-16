@@ -58,6 +58,7 @@ Penjelasan:<br>
 
   - Def tambah data<br>
 ![tambah_data.png](Pic/tambah_data.png)<br>
+Penjelasan:<br>
     - Disini kita buat inputan karena tadi kita sudah membuat kata - kata outputnya kali ini kita cukup membuat inputan data mahasiswanya saja<br>
     - Jangan lupa gunakan perkalian untuk menghitunghasil total atau rata- ratanya<br>
 
@@ -77,7 +78,8 @@ Penjelasan:<br>
     
   - Def cari data<br>
 ![cari_data.png](Pic/cari_data.png)<br>
-    - tadi kita sudah buat print sama seperti dibagian Input_Nilai<br>
+Penjelasan:<br>
+    - Tadi kita sudah buat print sama seperti dibagian Input_Nilai<br>
     - Kita akan langsung membuat inputan dengan format nama untuk mencari data dari mahasiswa yang sedang kita cari<br>
     - (If)Jika data mahasiswa yang dicari ada didalam dictionary maka data baik Nama, NIM, Nilai Tugas, Nilai UTS, dan Nilai UAS akan muncul<br>
     - (Else)Jika data mahasiswa yang dicari tidak ada didalam dictionary maka akan muncul tulisan "datanya tidak ada"<br>
@@ -85,18 +87,20 @@ Penjelasan:<br>
 4. Main<br>
   - From dan import<br>
 ![memanggil_modul.png](Pic/memanggil_modul.png)<br>
+Penjelasan:<br>
     - Sama seperti sebelumnya hanya saja disini sedikit berbeda<br>
     - From disini kita tulis package.modulnya lalu import fungsi(def) tadi<br>
     - Karena dibagian main ini kita akan menggunakan atau membuat syntax pilihan menu<br>
    
   - While True<br>
 ![pilih_menu.png](Pic/pilih_menu.png)<br>
+Penjelasan:<br>
     - Kita gunakan print untuk membuat pilihan menunya<br>
     - Lalu kita buat inputan untuk memilih menu nanti ketika program dijalankan<br>
     - (If dan Elif)Kita gunakan karena kita akan membuat cabang pilihan yang banyak<br>
     - Lalu dibawahnya kita tambahkan  juga fungsi - fungsi yang sudah kita buat tadi<br>
     - Pada perintah ke 6 kita gunakan break untuk keluar dari program yang kita jalankan<br>
-    - (ELse)Jika kita tidak memilih salah satu menu tersebut maka akan muncul peringatan "pilih menu yang tersedia diatas"<br>
+    - (Else)Jika kita tidak memilih salah satu menu tersebut maka akan muncul peringatan "pilih menu yang tersedia diatas"<br>
     
 Setelah semmuanya selesai maka kita akan menjalankan/run syntax untuk mengerun atau menjalankan syntax harus yang main karena pilihan menunya ada di main
 Berikut adalah tampilan dari program atau syntax- syntax yang sudah kita buat tadi<br>
