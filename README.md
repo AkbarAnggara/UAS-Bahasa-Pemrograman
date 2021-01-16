@@ -117,7 +117,7 @@ Jika kita belum menginputkan data mahasiswa<br>
 
 3. Menghapus data mahasiswa<br>
 Jika kita sudah memasukkan atau menginputkan data mahasiswa<br>
-!hapus_data_qiqi.png](Pic/hapus_data_qiqi.png)<br>
+![hapus_data_qiqi.png](Pic/hapus_data_qiqi.png)<br>
 Jika kita belum menginputkan data mahasiswa<br>
 ![pencarian_tidak_ada.png](Pic/pencarian_tidak_ada.png)<br>
 Tampilan data jika kita sudah berhasil menghapus data mahasiswa<br>
@@ -146,6 +146,6 @@ Jika kita belum menginputkan data mahasiswa<br>
 Oke sekian penjelasan dan selesai sudah tugas Ujian Akhir Semester(UAS) 1 untuk Mata Kuliah Bahasa Pemrograman<br>
 Sekian Terimakasih Banyak<br>
 
-||==== Bangkit Akbar Anggara ====||
-||==== TI.20.B.1 ====||
-||==== 312010148 ====||
+# ||==== Bangkit Akbar Anggara ====||<br>
+# ||==== TI.20.B.1 ====||<br>
+# ||==== 312010148 ====||<br>
