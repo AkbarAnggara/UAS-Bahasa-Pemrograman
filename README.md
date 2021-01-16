@@ -103,7 +103,7 @@ Berikut adalah tampilan dari program atau syntax- syntax yang sudah kita buat ta
 
 1. Tambah data mahasiswa<br>
 ![tambah_akbar.png](Pic/tambah_akbar.png)<br>
-![tambah_qiqi.png](Pic/tambah_qiqi.png<br>
+![tambah_qiqi.png](Pic/tambah_qiqi.png)<br>
 
 2. Tampilkan data mahasiswa<br>
 Jika kita sudah memasukkan atau menginputkan data mahasiswa<br>
