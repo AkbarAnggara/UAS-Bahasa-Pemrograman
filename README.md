@@ -12,7 +12,7 @@ Disitu tertulis kita disuruh membuat package dan modul lalu jelaskan di github b
 # Penyelesaian
 Oke Berikut adalah syntax - syntax yang saya gunakan untuk mengerjakan soal diatas<br>
 ![jawaban.png](Pic/jawaban.png)<br>
-1. Package modul(daftar_nilai) [Click Here](model/daftar_nilai.py)
+1. Package model(daftar_nilai) [Click Here](model/daftar_nilai.py)
 2. Package view(input_nilai) [Click Here](view/input_nilai.py) dan view(view_nilai) [Click Here](view/view_nilai.py)
 3. modul main [Click Here](main.py)
 
